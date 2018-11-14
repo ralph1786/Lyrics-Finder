@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css?family=Merienda");
+
+.button_color {
+  background-color: #ed6a5a;
+  color: whitesmoke;
+}
+
+.button_color:hover {
+  background-color: #f5452e;
+  color: whitesmoke;
+}
+
+.card_header_styling {
+  font-family: "Merienda", cursive;
+}
+
+.card_body_styling {
+  background-color: #edf7ff;
+}
+
+strong {
+  padding-right: 5px;
+}
+
+li:nth-child(even) {
+  background-color: #fffcd3;
+}
+
+li:nth-child(odd) {
+  background-color: #d6f0ff;
+}

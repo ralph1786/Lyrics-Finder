@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Spirax");
+
+.button_color {
+  background-color: #ed6a5a;
+  color: whitesmoke;
+}
+
+.button_color:hover {
+  background-color: #f5452e;
+}
+
+.icon-color {
+  color: #8273a3;
+  padding-right: 15px;
+}
+
+.font_change {
+  font-family: "Spirax", cursive;
+}
